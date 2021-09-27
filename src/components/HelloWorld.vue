@@ -1,33 +1,13 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <h3>Installed CLI Plugins</h3>
-    <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router" target="_blank" rel="noopener">router</a></li>
-    </ul>
-    <h3>Essential Links</h3>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
-    </ul>
-    <h3>Ecosystem</h3>
-    <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
-    </ul>
-  </div>
+      
+    <img alt="" width ="500" src="https://wallpapercave.com/wp/msvzTqw.jpg">
+    <img alt="" width ="300" src="https://i.pinimg.com/736x/de/da/61/deda6132a5b3fe5670f3c366a97bfdd2--india.jpg">
+    <img alt="" width ="500" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0025/1032/brand.gif?itok=cO1d9eU-">
+    <img alt="" width ="300" src="https://2.bp.blogspot.com/-GF9J0iHDYwg/Wy6VL324z4I/AAAAAAAATag/zkc6g_IDMbwarj6nKi5a6tR1idj8z-cHwCLcBGAs/s1600/Body-Shop.JPG">
+    </div>
+
 </template>
 
 <script>
@@ -41,6 +21,10 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+h1{
+  align-content: center;
+  font: optional;
+}
 h3 {
   margin: 40px 0 0;
 }
